@@ -4,3 +4,4 @@ __pycache__/
 .env
 .dbt/
 .DS_Store
+flight-platform-508512-c310b64af7cd.json
